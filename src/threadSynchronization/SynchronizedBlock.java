@@ -1,8 +1,6 @@
 package threadSynchronization;
 
 public class SynchronizedBlock {
-//  Synchronized Block داخل ميثود Instance
-
 
   public static class Account{
         private int balance;
